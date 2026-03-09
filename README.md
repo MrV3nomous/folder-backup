@@ -40,12 +40,17 @@ Then enter:
 
 Use the file called: backupignore.txt
 
+
 Example:
 
 __pycache__
+
 *.pyc
+
 *.log
+
 node_modules
+
 .git
 
 
